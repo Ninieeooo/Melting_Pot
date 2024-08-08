@@ -8,23 +8,23 @@ This repository conrains the design for a fusion restaurant website, offering a 
 
 ## Features
 
-**Menu Selection:** Users can easily browse through three distinct menus for Korean, Chinese,and Mexican cuisines, each with its own layout  and style.
+* **Menu Selection:** Users can easily browse through three distinct menus for Korean, Chinese,and Mexican cuisines, each with its own layout  and style.
 
-**Integrated Delivery  Service:** A streamlined delivery opiton  allow users to place orders directly from the website, with clear insrucctions on how to customizeu their meals and choose delivery preferrence.
+* **Integrated Delivery  Service:** A streamlined delivery opiton  allow users to place orders directly from the website, with clear insrucctions on how to customizeu their meals and choose delivery preferrence.
 
-**User-Friendly Navigation:** Intuitive navigation makes it easy for user s to explore the different sections of the website, including  menu categories, special offers and customer reviews.
+* **User-Friendly Navigation:** Intuitive navigation makes it easy for user s to explore the different sections of the website, including  menu categories, special offers and customer reviews.
 
-**Interactive elements:** The design includes interactive elements like hover effects and animations enhancing the overall user experience and making the website more engaging.
+* **Interactive elements:** The design includes interactive elements like hover effects and animations enhancing the overall user experience and making the website more engaging.
 
  
 
 ## Future Development
 
-**Nutritional Information & DIetry filters:** Add detailed nutrituional information for it dish and introduce dietry filters to help customers make informed choices.
+* **Nutritional Information & DIetry filters:** Add detailed nutrituional information for it dish and introduce dietry filters to help customers make informed choices.
 
-**Loyalty Program:** Develop a loyalty program where customers can earn points on their orders and redeem them for discounts and special offers, encouraging repeat visits.
+* **Loyalty Program:** Develop a loyalty program where customers can earn points on their orders and redeem them for discounts and special offers, encouraging repeat visits.
 
-**Chef's Specials and Recommendation:** Feature a section for the chef specials where users can see recommended dishes or daily specials base on seasonal ingredient or chefs inspiration.
+* **Chef's Specials and Recommendation:** Feature a section for the chef specials where users can see recommended dishes or daily specials base on seasonal ingredient or chefs inspiration.
 
 
 * Bankole Niniola
