@@ -20,7 +20,7 @@ This repository conrains the design for a fusion restaurant website, offering a 
 
 ## Future Development
 
-* **Nutritional Information & DIetry filters:** Add detailed nutrituional information for it dish and introduce dietry filters to help customers make informed choices.
+* **Nutritional Information & Dietary filters:** Add detailed nutrituional information for it dish and introduce dietary filters to help customers make informed choices.
 
 * **Loyalty Program:** Develop a loyalty program where customers can earn points on their orders and redeem them for discounts and special offers, encouraging repeat visits.
 
