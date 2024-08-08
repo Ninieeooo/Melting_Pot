@@ -29,4 +29,4 @@ This repository conrains the design for a fusion restaurant website, offering a 
 
 * Bankole Niniola
 * [Send a mail](mailto:bankoleniniola430@gmail.com)
-* [Melting Pot Project](https://www.figma.com/design/Cc4Q0XFN8eOXVxzCcvbIpA/Untitled?node-id=35-38&t=AHN5S9n7q8wI98po-0))
+* [Melting Pot Project](https://www.figma.com/design/Cc4Q0XFN8eOXVxzCcvbIpA/Untitled?node-id=35-38&t=AHN5S9n7q8wI98po-0)
