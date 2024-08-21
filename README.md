@@ -3,7 +3,7 @@ This repository contains a figma file for Melting_Pot
 
 
 ## Design Overview
-This repository conrains the design for a fusion restaurant website, offering a unique blend of Korea, Chinese, and Mexican cuisines. The website design features three distinct menus corresponding to each cuisine, providing a seamless user experience for customers exploring different food options. Additionally, the design includes an integrated delivery service feature, making it easy for users to order their favorite dishes online 
+This repository contains the design for a fusion restaurant website, offering a unique blend of Korea, Chinese, and Mexican cuisines. The website design features three distinct menus corresponding to each cuisine, providing a seamless user experience for customers exploring different food options. Additionally, the design includes an integrated delivery service feature, making it easy for users to order their favorite dishes online 
 
 
 ## Features
